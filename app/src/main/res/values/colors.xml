@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_primary">#03A9F4</color>
+    <color name="color_primary_dark">#0399DD</color>
+    <color name="color_accent">#1CB6FB</color>
+    <color name="color_white">#FFFFFFFF</color>
+    <color name="color_shimmer">#BCBEC1</color>
+    <color name="color_selected_item">#332196f3</color>
+    <color name="color_text_default">#292929</color>
+    <color name="color_separator">#efefef</color>
+    <color name="color_native_ad_background">#F3F2F3</color>
+    <color name="color_dialog_background_light">#5E000000</color>
+
+</resources>

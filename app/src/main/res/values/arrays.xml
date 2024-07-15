@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="dialog_book_columns">
+        <item>@string/txt_reading_horizontal</item>
+        <item>@string/txt_reading_vertical</item>
+    </string-array>
+
+</resources>
